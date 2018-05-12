@@ -1,0 +1,53 @@
+_repo: With-the-Indians-in-the-Rockies_42274
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Varian, George
+    alias: Varian, George Edmund
+    birthdate: 1865
+    deathdate: 1923
+    gutenberg_agent_id: '31657'
+    url: http://www.gutenberg.org/2009/agents/31657
+covers:
+- cover_type: archival
+  image_path: 42274-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Schultz, James Willard
+    aliases:
+    - Far Off White Robe
+    - Schultz, J. W. (James Willard)
+    - Spotted Robe
+    - Apikuni
+    birthdate: 1859
+    deathdate: 1947
+    gutenberg_agent_id: '41587'
+    url: http://www.gutenberg.org/2009/agents/41587
+    wikipedia: http://en.wikipedia.org/wiki/James_Willard_Schultz
+description: The History of the American West Collection is a unique project that
+  provides opportunities for researchers and new readers to easily access and explore
+  works which have previously only been available on library shelves. The Collection
+  brings to life pre-1923 titles focusing on a wide range of topics and experiences
+  in US Western history. From the initial westward migration, to exploration and development
+  of the American West to daily life in the West and intimate pictures of the people
+  who inhabited it, this collection offers American West enthusiasts a new glimpse
+  at some forgotten treasures of American culture. Encompassing genres such as poetry,
+  fiction, nonfiction, tourist guides, biographies and drama, this collection provides
+  a new window to the legend and realities of the American West.
+gutenberg_issued: '2013-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42274'
+  lccn: '12023115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fox, Thomas, -1885? -- Juvenile fiction'
+- !lcsh 'Siksika Indians -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Frontier and pioneer life -- Montana -- Juvenile fiction'
+- !lcsh 'Pitamakan -- Siksika Chief -- Juvenile fiction'
+title: With the Indians in the Rockies
+url: http://www.gutenberg.org/ebooks/42274
